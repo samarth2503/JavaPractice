@@ -1,0 +1,19 @@
+{
+	"firstname":"Scott",
+	"lastname":"Jaisawal",
+	"age":27
+	"address":[
+	  {
+		"streetname":"Plot-6 Mohan Nagar",
+		"city":"Hyderbad",
+		"state":"Tamilnadu",
+		"pincode":"400078"
+	  },
+	
+ 	  {
+		"streetname":"Plot-5 Mahivir Nagar",
+		"city":"Mumabi",
+		"state":"Maharashtra",
+		"pincode":"400090"
+	  }
+}
